@@ -17,4 +17,4 @@ related_posts: false
 
 "Mathematics is an experimental science, and definitions do not come first, but later on." – Oliver Heaviside
 
-"I'm not losing—I'm just not currently winning." – Andrew Heil
+"Winning is done inch by inch." – Al Pacino says in the movie Any Given Sunday
