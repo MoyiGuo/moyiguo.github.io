@@ -1,12 +1,20 @@
 ---
 layout: post
-title:  数学笑话几则
+title:  Math Jokes
 hidden: false
 date: 2024-01-09 21:01:00
 description: 数学
 tags: 数学 幽默
 categories: 杂
-thumbnail: assets/img/kim_wexler.png
+thumbnail: assets/img/math_joke.png
 related_posts: false
 ---
-这是一则数学笑话.
+"There are no good math jokes." – Anonymous
+
+"Young man, in mathematics you don't understand things, you just get used to them." – von Neumann
+
+"Math is like love—a simple idea but it can get complicated." – R. Drabek
+
+"Mathematics is an experimental science, and definitions do not come first, but later on." – Oliver Heaviside
+
+"I'm not losing—I'm just not currently winning." – Andrew Heil
